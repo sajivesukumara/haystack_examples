@@ -1,0 +1,11 @@
+haystack-ai==2.15.2
+crewai==0.150.0
+torch==2.7.1
+sentence-transformers>=3.0.0
+transformers==4.53.3
+tokenizers>=0.20,<0.22
+crewai-tools
+
+embedchain
+
+langchain-google-genai
